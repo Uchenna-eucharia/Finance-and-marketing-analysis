@@ -2,6 +2,7 @@
 
 ### Project Overview
 This project analyzes sales data using Microsoft Excel to evaluate business performance across products, customer segments, regions, locations, and time. An interactive dashboard was developed to help business owners, finance managers, and marketing managers make data-driven decisions.
+![original](https://github.com/user-attachments/assets/6ec8f126-187d-4079-a9d3-1de4d2dcddad)
 
 ### Problem Statement
 The business had a large volume of sales data but needed a simple way to identify sales trends, high-performing products, customer segments, and regions. The analysis provides management with a clear view of performance and areas requiring attention.
